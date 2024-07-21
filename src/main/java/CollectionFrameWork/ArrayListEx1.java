@@ -48,6 +48,8 @@ public class ArrayListEx1 {
 
 
 
+
+
         System.out.println(list1);
         System.out.println(list2);
         //main의 끝
