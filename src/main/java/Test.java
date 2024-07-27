@@ -8,6 +8,8 @@ public class Test {
         System.out.println("b = "+ b);
 
 
+
+
         c = --a % --a;
 
         System.out.println("c = "+ c);
