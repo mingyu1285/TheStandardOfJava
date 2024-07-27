@@ -42,6 +42,10 @@ class CardTest{
 
 
 
+
+
+
+
 public class Card {
 
     //인스턴스변수
