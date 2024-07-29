@@ -42,6 +42,8 @@ public class ArrayListLinkedListTest {
         //데이터의 양이 많지 않은 경우에는 두 개의 큰 차이는 없지만 장단점을 이해하고 상황에 따라 적합한 것을 선택하는 것이 좋다.
     }
 
+
+
     public static long add1(List list){
         long start = System.currentTimeMillis();
         for(int i = 0; i < 1000000; i++) list.add(i+"");
